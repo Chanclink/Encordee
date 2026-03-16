@@ -11,7 +11,7 @@ Action et prise de choix sous contrainte de temps
 
 Le but sera de gérer 3 ressources différentes pour s'en sortir :
 
-L'[Oxygène](obsidian://open?vault=Ascension&file=Oxyg%C3%A8ne)
+L'[[Oxygène]]
 
 L'Endurance
 
