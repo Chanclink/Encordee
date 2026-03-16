@@ -1,5 +1,7 @@
 
-L'équipement correspond aux cartes rouges et qui aura la possibilité de vous débloquez de situation difficiles comme un manque de ressources ou un manque de temps.
+L'équipement correspond aux cartes rouges.
+
+Il offre la possibilité de vous débloquez de situations difficiles comme un manque de ressources ou un manque de temps.
 
 Ainsi n'importe quelle joueur, à n'importe quelle moment peut jouer une carte équipement
 
